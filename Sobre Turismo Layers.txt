@@ -1,0 +1,31 @@
+Exemplo em Python de um sistema simples de cadastro de pacotes de viagem para demonstrar como a separação em camadas 
+resolve esses problemas.
+
+
+UI isolada
+Application com casos de uso
+Domain com regras
+Infrastructure com persistência
+
+
+Camada |             O que é
+--------------------------------------------
+Ui     | Interface: Conversa com o usuário
+App    | Aplicação: Coordena o que vai acontecer
+Domain | Modelo do Sistema: Regras do negócio
+Infra  | Banco de dados
+
+
+O que cada camada faz?
+
+Ui (Interface): Mostra menu, mostra resultados, lê dados digitados, chama funções do app.
+
+
+App: Executar os casos de uso, decide o que deve acontecer, chama domínio e banco.
+Exemplos: cadastrar_pacote(); buscar_pacote(); atualizar_pacote(); remover_pacote().
+
+
+Domain: Cria a entidade "pacote" e valida regras (preço, datas e ID), sabe as regras do negócio.
+
+
+Infra: Conecta no SQLite, executa SQL e executa comandos no banco (salvar, buscar, atualizar e deletar).
