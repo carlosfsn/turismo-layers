@@ -85,6 +85,24 @@ python main.py
 📧 [moraisemilly358@gmail.com](mailto:moraisemilly358@gmail.com)
 🔗 [http://linkedin.com/in/emilly-morais-bulcão-1a17bb2b2/](http://linkedin.com/in/emilly-morais-bulcão-1a17bb2b2)
 
+
+### Jean Oliveira
+
+📧 [jeanoliveiraes1@gmail.com](mailto:jeanoliveiraes1@gmail.com)
+🔗 [https://www.linkedin.com/in/jean-oliveira-8642a4280/](https://www.linkedin.com/in/jean-oliveira-8642a4280/)
+
+
+### Anny Beatriz
+
+📧 [beatrizteixeira3913@gmail.com](mailro:beatrizteixeira3913@gmail.com)
+🔗 [https://www.linkedin.com/in/beatriz-t/](https://www.linkedin.com/in/beatriz-t/)
+
+
+### Flavio Holanda
+
+📧 [flavicarvalho9029@gmail.com](mailto:flavicarvalho9029@gmail.com)
+🔗 [https://www.linkedin.com/in/flávio-carvalho-79294a217/](https://www.linkedin.com/in/flávio-carvalho-79294a217/)
+
 ---
 
 ## 🎓 Finalidade Acadêmica
